@@ -48,25 +48,25 @@
       </form>
 
       <div class="flex flex-col gap-2 2xl:hidden">
-        <a href="https://github.com/Myphz" target="_blank" class="flex w-fit items-center gap-2">
+        <a href="https://github.com/Ashesh27" target="_blank" class="flex w-fit items-center gap-2">
           <img src="/icons/github.png" class="img" alt="github" />
           <span>Myphz</span>
         </a>
         <a
-          href="mailto:danielscanu45@outlook.it"
+          href="mailto:guptaashesh985@gmail.com"
           target="_blank"
           class="flex w-fit items-center gap-2"
         >
           <img src="/icons/email.svg" class="img scale-[0.8]" alt="email" />
-          <span>danielscanu45@outlook.it</span>
+          <span>guptaashesh985@gmail.co,</span>
         </a>
         <a
-          href="https://www.linkedin.com/in/danielscanu/"
+          href="https://www.linkedin.com/in/ashesh-gupta-4920b9144/"
           target="_blank"
           class="flex w-fit items-center gap-2"
         >
           <img src="/icons/linkedin.png" class="img" alt="linkedin" />
-          <span>Daniel Scanu</span>
+          <span>Ashesh Gupta</span>
         </a>
       </div>
     </section>
