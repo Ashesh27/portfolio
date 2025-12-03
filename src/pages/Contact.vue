@@ -58,7 +58,7 @@
           class="flex w-fit items-center gap-2"
         >
           <img src="/icons/email.svg" class="img scale-[0.8]" alt="email" />
-          <span>guptaashesh985@gmail.co,</span>
+          <span>guptaashesh985@gmail.com</span>
         </a>
         <a
           href="https://www.linkedin.com/in/ashesh-gupta-4920b9144/"
