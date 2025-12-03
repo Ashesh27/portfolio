@@ -14,7 +14,7 @@
         <div>pwd</div>
       </div>
 
-      <div>/home/daniel/Documents</div>
+      <div>/home/ashesh/Documents</div>
 
       <div class="flex gap-4">
         <div class="font-bold">{{ BASE_PROMPT }}</div>
@@ -28,7 +28,7 @@
 
       <div>
         node_modules/ package-lock.json public/ src/ index.html package.json postcss.config.js
-        README.md tailwind.config.ts tsconfig.json vite.config.ts ddaniel.dev
+        README.md tailwind.config.ts tsconfig.json vite.config.ts dashesh.dev
       </div>
 
       <div class="flex gap-4">
