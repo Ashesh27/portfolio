@@ -50,7 +50,7 @@
       <div class="flex flex-col gap-2 2xl:hidden">
         <a href="https://github.com/Ashesh27" target="_blank" class="flex w-fit items-center gap-2">
           <img src="/icons/github.png" class="img" alt="github" />
-          <span>Myphz</span>
+          <span>Ashesh27</span>
         </a>
         <a
           href="mailto:guptaashesh985@gmail.com"
