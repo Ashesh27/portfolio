@@ -25,7 +25,7 @@
             class="flex w-fit items-center gap-2"
           >
             <img src="/icons/linkedin.png" class="img" alt="linkedin" />
-            <span>Ashesh Guptax``</span>
+            <span>Ashesh Gupta</span>
           </a>
         </div>
       </div>
