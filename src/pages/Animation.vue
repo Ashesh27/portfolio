@@ -28,7 +28,7 @@
 
       <div>
         node_modules/ package-lock.json public/ src/ index.html package.json postcss.config.js
-        README.md tailwind.config.ts tsconfig.json vite.config.ts dashesh.dev
+        README.md tailwind.config.ts tsconfig.json vite.config.ts ashesh.dev
       </div>
 
       <div class="flex gap-4">
