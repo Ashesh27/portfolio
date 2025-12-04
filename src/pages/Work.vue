@@ -10,7 +10,7 @@
         :class="textVisible ? '2xl:block' : '2xl:hidden-dot 2xl:block'"
       >
         I had the opportunity to work in both academia and companies with many different technologies, from
-        building startups to billion dollar companies.
+        startups to billion dollar companies.
         <br />
         Each experience taught me something and I continuously improved in my learning journey.
       </p>
