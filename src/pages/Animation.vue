@@ -28,7 +28,7 @@
 
       <div>
         node_modules/ package-lock.json public/ src/ index.html package.json postcss.config.js
-        README.md tailwind.config.ts tsconfig.json vite.config.ts ashesh.dev
+        README.md tailwind.config.ts tsconfig.json vite.config.ts ashesh.com
       </div>
 
       <div class="flex gap-4">
@@ -65,7 +65,7 @@ const emit = defineEmits(["endAnimation"]);
 
 const TOTAL_TIME = 8300;
 
-const BASE_PROMPT = "myphz@archlinux:$";
+const BASE_PROMPT = "ashesh.gupta:$";
 
 type ToBoolean<T> = {
   [K in keyof T]: boolean;
